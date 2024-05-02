@@ -26,6 +26,7 @@ cd $HOME
 rm -rf DEMON
 git clone https://github.com/AHMED-143/GREEN.git
 cd GREEN
+git pull
 python3 GREEN.py
 ```
 🔄 𝗥𝗨𝗡 𝗦𝗛𝗢𝗥𝗧 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 🔄
