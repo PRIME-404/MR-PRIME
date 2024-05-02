@@ -21,6 +21,8 @@ pkg install git
 pkg install python
 pip install requests
 pip install mechanize
+pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
+cd $HOME
 rm -rf DEMON
 git clone https://github.com/AHMED-143/GREEN.git
 cd GREEN
