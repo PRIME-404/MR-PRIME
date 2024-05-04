@@ -1,4 +1,4 @@
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-AHMED.FARHAN-dimgray?style=flat-square&logo=github)](https://github.com/AHMED-143)<br> [![Facebook](https://img.shields.io/badge/Facebook-FARHAN-blue?style=flat-square&logo=facebook)](https://www.facebook.com/T4R0X)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-AHMED.FARHAN-dimgray?style=flat-square&logo=github)](https://github.com/AHMED-143)<br> [![Facebook](https://img.shields.io/badge/Facebook-FARHAN-blue?style=flat-square&logo=facebook)](https://www.facebook.com/FarHan.YouR.FatHer.OkH)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
 
 
 
