@@ -3,7 +3,8 @@
 <p align="center"><img src="Picsart_24-05-11_01-02-52-796.jpg"></p>
 
 
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-AHMED.FARHAN-dimgray?style=flat-square&logo=github)](https://github.com/AHMED-143)<br> [![Facebook](https://img.shields.io/badge/Facebook-FARHAN-blue?style=flat-square&logo=facebook)](https://www.facebook.com/FarHan.YouR.FatHer.OkH)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-AHMED.FARHAN-dimgray?style=flat-square&logo=github)](https://github.com/AHMED-143)<br> [![Facebook](https://img.shields.io/badge/Facebook-FARHAN-blue?style=flat-square&logo=facebook)](https://www.facebook.com/FarHan.YouR.FatHer.OkH)<br> [![Whatsapp]
+(https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)<br> [![Telegram]
 
 
 
