@@ -7,9 +7,9 @@
 
 
 
-## :blue_heart: <h1 align="center"> [AHMED FARHAN]    [MOHAMMAD JOBAID] </h1>
+<h1 align="center"> [𝗔𝗛𝗠𝗘𝗗 𝗙𝗔𝗥𝗛𝗔𝗡]</h1>
 
-## :light_blue_hear: <h2 align="center">  FREE FILE X RANDOM CLONE TOOLS </h2>
+<h2 align="center"> 𝗙𝗜𝗟𝗘 𝗫 𝗥𝗔𝗡𝗗𝗢𝗠 𝗖𝗟𝗢𝗡𝗜𝗡𝗚 𝗧𝗢𝗢𝗟𝗦 </h2>
 
 
 ## :shield: 𝗧𝗢𝗢𝗟𝗦 𝗙𝗘𝗔𝗧𝗨𝗥𝗘 
@@ -19,17 +19,11 @@
 
 ## :skull: 𝗧𝗢𝗢𝗟𝗦 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 
 ```
-pkg update
-pkg upgrade
-pkg install git
-pkg install python
-pip install requests
-pip install mechanize
-pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
 cd $HOME
 rm -rf GREEN
 git clone https://github.com/AHMED-143/GREEN.git
 cd GREEN
+chmod + x*
 git pull
 python3 GREEN.py
 ```
