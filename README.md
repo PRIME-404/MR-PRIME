@@ -23,7 +23,7 @@ cd $HOME
 rm -rf GREEN
 git clone https://github.com/AHMED-143/GREEN.git
 cd GREEN
-chmod + x*
+chmod +x *
 git pull
 python3 GREEN.py
 ```
