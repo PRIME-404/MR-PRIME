@@ -35,6 +35,6 @@ chmod 777 GREEN
 ./GREEN
 ```
 ```
-✍️ 𝗡𝗢𝗧𝗘 : 𝗧𝗛𝗜𝗦 𝗧𝗢𝗢𝗟𝗦 𝗜𝗦 𝗙𝗥𝗘𝗘 𝗕𝗨𝗧 𝗬𝗢𝗨 𝗡𝗘𝗘𝗗 𝗔𝗣𝗣𝗥𝗢𝗩𝗔𝗟 𝗙𝗢𝗥 𝗨𝗦𝗘 𝗧𝗛𝗜𝗦 𝗧𝗢𝗢𝗟𝗦</br>
+✍️ 𝗡𝗢𝗧𝗘 : 𝗧𝗛𝗜𝗦 𝗧𝗢𝗢𝗟𝗦 𝗜𝗦 𝗙𝗥𝗘𝗘 𝗕𝗨𝗧 𝗬𝗢𝗨 𝗡𝗘𝗘𝗗 𝗔𝗣𝗣𝗥𝗢𝗩𝗔𝗟 𝗙𝗢𝗥 𝗨𝗦𝗘 𝗧𝗛𝗜𝗦 𝗧𝗢𝗢𝗟𝗦 </br>
 ```
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-FARHAN-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801843961233)
