@@ -1,2 +1,1 @@
-import GREEN 
-GREEN.HYPER()
+print(f" W8 FOR FIX ")
