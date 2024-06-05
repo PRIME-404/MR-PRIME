@@ -1,2 +1,2 @@
 import GREEN 
-green.MainMenu()
+green.HYPER()
