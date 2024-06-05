@@ -1,2 +1,2 @@
 import GREEN 
-green.HYPER()
+GREEN.HYPER()
