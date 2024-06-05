@@ -1,2 +1,2 @@
-if __name__=="__main__":
-   import GREEN
+import GREEN 
+green.MainMenu()
