@@ -19,7 +19,6 @@
 
 ## :skull: 𝗧𝗢𝗢𝗟𝗦 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 
 ```
-cd $HOME
 rm -rf GREEN
 git clone https://github.com/AHMED-143/GREEN.git
 cd GREEN
