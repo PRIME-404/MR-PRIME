@@ -22,16 +22,14 @@
 rm -rf GREEN
 git clone https://github.com/AHMED-143/GREEN.git
 cd GREEN
-chmod 777 GREEN
 git pull
-./GREEN
+python3 GREEN.py
 ```
 ## :ballot_box_with_check: 𝗥𝗨𝗡 𝗦𝗛𝗢𝗥𝗧 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 
 ```    
 cd GREEN 
 git pull
-chmod 777 GREEN
-./GREEN
+python3 GREEN.py
 ```
 
 ```✍️ 𝗡𝗢𝗧𝗘 : 𝗧𝗛𝗜𝗦 𝗧𝗢𝗢𝗟𝗦 𝗜𝗦 𝗙𝗥𝗘𝗘 𝗕𝗨𝗧 𝗬𝗢𝗨 𝗡𝗘𝗘𝗗 𝗔𝗣𝗣𝗥𝗢𝗩𝗔𝗟 𝗙𝗢𝗥 𝗨𝗦𝗘 𝗧𝗛𝗜𝗦 𝗧𝗢𝗢𝗟𝗦 ```</br>
