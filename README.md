@@ -19,17 +19,19 @@
 
 ## :skull: 𝗧𝗢𝗢𝗟𝗦 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 
 ```
-rm -rf GREEN
-git clone https://github.com/AHMED-143/GREEN.git
-cd GREEN
+rm -rf MR-PRIME
+git clone https://github.com/PRIME-404/MR-PRIME.git
+cd MR-PRIME
+chmod 777 MR-PRIME
 git pull
-python3 GREEN.py
+./PRIME
 ```
 ## :ballot_box_with_check: 𝗥𝗨𝗡 𝗦𝗛𝗢𝗥𝗧 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 
 ```    
-cd GREEN 
+cd MR-PRIME
+chmod 777 MR-PRIME
 git pull
-python3 GREEN.py
+./PRIME
 ```
 
 ```✍️ 𝗡𝗢𝗧𝗘 : 𝗧𝗛𝗜𝗦 𝗧𝗢𝗢𝗟𝗦 𝗜𝗦 𝗙𝗥𝗘𝗘 𝗕𝗨𝗧 𝗬𝗢𝗨 𝗡𝗘𝗘𝗗 𝗔𝗣𝗣𝗥𝗢𝗩𝗔𝗟 𝗙𝗢𝗥 𝗨𝗦𝗘 𝗧𝗛𝗜𝗦 𝗧𝗢𝗢𝗟𝗦 ```</br>
